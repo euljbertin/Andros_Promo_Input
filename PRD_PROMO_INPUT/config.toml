@@ -1,5 +1,0 @@
-[snowflake]
-[snowflake.sleep]
-streamlitSleepTimeoutMinutes = 5
-[snowflake.responseCache]
-initialResponseCache = false
